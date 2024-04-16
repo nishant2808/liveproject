@@ -48,7 +48,6 @@ if (isset ($_POST['submit'])) {
     }
     </style>
 </head>
-
 <body>
 
 <div class="container">
@@ -78,8 +77,6 @@ if (isset ($_POST['submit'])) {
             </div>
         </form>
     </section>
-
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
