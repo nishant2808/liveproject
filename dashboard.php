@@ -10,8 +10,6 @@ $active_total = mysqli_num_rows($result_total);
 $sql = "SELECT * FROM `role`";
 $result_role = mysqli_query($conn, $sql);
 $count_role = mysqli_num_rows($result_role);
-
-
 ?>
 <!doctype html>
 <html lang="en">

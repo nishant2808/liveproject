@@ -2,5 +2,4 @@
     session_start();
     session_destroy();
     header("location: http://localhost/live_project/login.php");
-
 ?>
