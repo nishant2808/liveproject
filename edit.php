@@ -53,7 +53,6 @@ if (isset ($_GET["id"])) {
     }
     </style>
 </head>
-
 <body>
     <div class="container">
         <header class="text-center">
